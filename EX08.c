@@ -44,6 +44,7 @@ int main()
         return 0;
     }
     else
+    printf("Code non reconnu !\n");
     getchar();
     return 0;    
 }

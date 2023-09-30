@@ -11,6 +11,7 @@ int main()
     system("clear");
     printf("Indiquer la valeur de b :\n");
     scanf("%d",&b);
+    system("clear");
 
     if (a > b)
     {
